@@ -1,4 +1,4 @@
-# x Kyu - A Square of Squares
+# 8 Kyu - A Square of Squares
 
 A square of squares
 
